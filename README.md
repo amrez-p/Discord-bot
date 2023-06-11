@@ -1,6 +1,7 @@
 # toast
 
-[amrez-p] rewrite from scratch, now with slash commands :skull:
+[amrez-p](https://github.com/amrez-p/Discord-bot) rewrite from scratch, now with
+slash commands :skull:
 
 ## Developing
 
