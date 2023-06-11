@@ -1,0 +1,36 @@
+{
+  "name": "toast",
+  "version": "1.0.0",
+  "description": "amrez-p rewrite, now with slash commands",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amrez",
+  "dependencies": {
+    "@discordjs/rest": "^1.1.0",
+    "anilist-node": "^1.13.0",
+    "axios": "^0.27.2",
+    "bottomify": "^0.3.0",
+    "canvas": "^2.9.1",
+    "chalk": "^4.1.2",
+    "discord-api-types": "^0.32.1",
+    "discord.js": "^14.3.0",
+    "dotenv": "^16.0.0",
+    "enmap": "^5.9.0",
+    "ffmpeg": "^0.0.4",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "libsodium-wrappers": "^0.7.10",
+    "moment": "^2.29.3",
+    "node-fetch": "2.6.1",
+    "node-vibrant": "^3.2.1-alpha.1",
+    "os": "^0.1.2",
+    "prism-media": "^1.3.2",
+    "systeminformation": "^5.11.15",
+    "uwuifier": "^4.0.5",
+    "wikipedia-tldr": "^2.0.1",
+    "ytdl-core": "^4.11.2",
+    "ytsr": "^3.8.0"
+  }
+}
